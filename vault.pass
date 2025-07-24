@@ -1,2 +1,2 @@
-use your vault for passwords like aws access and secret keys , save using same variables used in yaml file
+In order to use Security Credentials ansible have vault option where you can store your passwords and sensitive data, vault.pass is the password for that vault according to the repo.
 
